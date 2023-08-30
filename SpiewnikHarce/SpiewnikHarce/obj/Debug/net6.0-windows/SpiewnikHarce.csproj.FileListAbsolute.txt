@@ -1,0 +1,17 @@
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\bin\Debug\net6.0-windows\SpiewnikHarce.exe
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\bin\Debug\net6.0-windows\SpiewnikHarce.deps.json
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\bin\Debug\net6.0-windows\SpiewnikHarce.runtimeconfig.json
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\bin\Debug\net6.0-windows\SpiewnikHarce.dll
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\bin\Debug\net6.0-windows\SpiewnikHarce.pdb
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.Form1.resources
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.Properties.Resources.resources
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.csproj.GenerateResource.cache
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.AssemblyInfoInputs.cache
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.AssemblyInfo.cs
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.csproj.CoreCompileInputs.cache
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.dll
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\refint\SpiewnikHarce.dll
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.pdb
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\SpiewnikHarce.genruntimeconfig.cache
+C:\Users\wiopo\source\repos\SpiewnikHarce\SpiewnikHarce\obj\Debug\net6.0-windows\ref\SpiewnikHarce.dll
